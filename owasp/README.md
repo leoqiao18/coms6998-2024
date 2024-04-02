@@ -4,6 +4,8 @@ This directory contains results from running CodeQL on the [OWASP BenchmarkJava 
 
 The `expectedresults-1.2.csv` is copied from the BenchmarkJava repo. It contains the true values for true-positives and false-positives.
 
+__TLDR:__ `codeql-cwe-78.csv` contains the results of comparing CodeQL analysis output with the expected results for CWE-78.
+
 ## CodeQL results
 
 The results in this directory is generated with the following process. If you want to replicate the process, follow the following steps.
