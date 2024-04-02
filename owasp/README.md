@@ -75,4 +75,4 @@ mvn install
 
 ### 4. `codeql-cwe-78.csv`
 
-From the `Benchmark_v1.2_Scorecard_for_CodeQL_v2.16.6.csv`, since we are particularly interested in CWE-78, I extracted the results for CWE-78 and put it in `codeql-cwe-78.csv`.
+From the `Benchmark_v1.2_Scorecard_for_CodeQL_v2.16.6.csv`, since we are particularly interested in CWE-78, I extracted the results for CWE-78 and put it in `codeql-cwe-78.csv`. The more detailed results can be viewed in `Benchmark_v1.2_Scorecard_for_CodeQL_v2.16.6.html`
